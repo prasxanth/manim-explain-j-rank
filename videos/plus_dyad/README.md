@@ -6,4 +6,4 @@
 4. [RankNRankNScene.mp4](RankNRankNScene.mp4)
 
 
-<video src='https://github.com/prasxanth/manim-explain-j-rank/blob/main/videos/plus_dyad/IntroductionScene.mp4' width=180/>
+<video src='https://github.com/prasxanth/manim-explain-j-rank/blob/main/videos/plus_dyad/IntroductionScene.mp4' width=180/></video>
