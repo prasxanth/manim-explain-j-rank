@@ -14,5 +14,5 @@ Below are some links explaining the concept of rank in J,
 * [Why is the rank of a verb important to know? (Article)](https://code.jsoftware.com/wiki/Vocabulary/RankInfoIsImportant)
 * [Verb Rank (Article)](https://code.jsoftware.com/wiki/Vocabulary/RankInfoIsImportant)
 
-This is released under the [MIT License](https://opensource.org/licenses/MIT).
+Released under the [MIT License](https://opensource.org/licenses/MIT).
 
