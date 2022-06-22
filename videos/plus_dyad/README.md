@@ -5,5 +5,3 @@
 3. [RankNRankMScene.mp4](RankNRankMScene.mp4)
 4. [RankNRankNScene.mp4](RankNRankNScene.mp4)
 
-
-<video src='IntroductionScene.mp4'></video>
