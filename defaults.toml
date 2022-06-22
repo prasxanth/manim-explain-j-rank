@@ -1,0 +1,54 @@
+[scene]
+wait_time=1
+
+[fonts]
+sans="Roboto"
+mono="Roboto Mono"
+size=60
+color="#F0AC5F" # GOLD
+
+[matrix]
+circumitems="entries"
+v_buff=1.45
+h_buff=1.45
+element_alignment_corner=[0.0, -1.0, 0.0]
+
+    [matrix.color_palette.two_color] 
+    xy="#F0AC5F"      # GOLD
+    result="#5CD0B3"  # TEAL
+    
+    [matrix.color_palette.three_color]
+    x="#5CD0B3"      # TEAL
+    y="#C55F73"      # MAROON
+    result="#F0AC5F" # GOLD
+    
+
+[verb]
+color="#58C4DD" # BLUE
+font_size=90
+
+[equals]
+color="#888888" # GREY
+font_size=100
+
+[title]
+fill_color="#644172"   # PURPLE_E
+stroke_color="#644172" # PURPLE_E
+
+[box]
+
+    [box.options]
+    corner_radius=0.1
+    stroke_color="#F0AC5F" # GOLD
+    
+    [box.sizes.entries]
+    height=1.3
+    width=1.3
+    
+    [box.sizes.rows]
+    height=1.3
+    width=3.9
+    
+    [box.sizes.columns]
+    height=3.9
+    width=1.3
