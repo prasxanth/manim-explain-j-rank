@@ -8,7 +8,7 @@ This is [Manim](https://github.com/ManimCommunity/manim) project that is used to
 
 Below are some links explaining the concept of rank in J,
 
-* [Wikipedia](https://en.wikipedia.org/wiki/Rank_(J_programming_language)
+* [Wikipedia](https://en.wikipedia.org/wiki/Rank_(J_programming_language))
 * [Learning J (Book)](https://www.jsoftware.com/help/learning/07.htm)
 * [J for C Programmers (Book)](https://www.jsoftware.com/help/jforc/loopless_code_i_verbs_have_r.htm)
 * [Rank in a hurry (Article)](https://code.jsoftware.com/wiki/Vocabulary/EZRank)
