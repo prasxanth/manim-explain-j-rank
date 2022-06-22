@@ -2,3 +2,7 @@
 
 This is [Manim](https://github.com/ManimCommunity/manim) project that is used to explain the concept of rank in [J](https://www.jsoftware.com/#/). 1080p videos are in the [videos](videos) folder.
 
+This is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+If you find this useful, please drop me a note at prasxanth.kumar@gmail.com.
+
