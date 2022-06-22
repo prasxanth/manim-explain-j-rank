@@ -1,0 +1,19 @@
+# This file needs to be updated with all the scenes from plus_dyad and plus_rank.
+
+[configs]
+base_dir = "media\\videos"
+prepend_basename = true
+target_folder = "presentation"
+
+[[chapters]]
+
+    [chapters.plus_dyad]
+    basename = "PlusDyad"
+    scene_order = ["IntroductionScene", "Rank0RankNScene", 
+                   "RankNRankNScene", "RankNRankMScene"]
+
+    [chapters.plus_rank]
+    basename = "PlusRank"
+    scene_order = ["IntroductionScene", "SimplerProblemScene", 
+                   "SimplerProblemExplanationScene"]
+
