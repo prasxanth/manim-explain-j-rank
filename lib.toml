@@ -1,0 +1,96 @@
+[verb]
+plus="+"
+plus_rank00='(+"0 0)'
+plus_rank10='(+"1 0)'
+plus_rank01='(+"0 1)'
+
+[equals]
+downarrow="$\\big\\Downarrow$"
+rightarrow="$\\Rightarrow$"
+
+[[matrices.PlusDyad.Rank0RankNScene]]
+x=[["1"]]
+y=[["2"]]
+x_plus_y=[["3"]]
+descr="Atom + atom"
+
+[[matrices.PlusDyad.Rank0RankNScene]]
+x=[["1"]]
+y=[["0", "1", "2"]]
+x_plus_y=[["1", "2", "3"]]
+descr="Atom + 1D array"
+
+[[matrices.PlusDyad.Rank0RankNScene]]
+x=[["_1", "0", "1"], ["2", "3", "4"], ["5", "6", "7"]]
+y=[["1"]]
+x_plus_y=[["0", "1", "2"],  ["3", "4", "5"], ["6", "7", "8"]]
+descr="2D array + atom"
+
+[[matrices.PlusDyad.Rank0RankNScene]]
+x=[["1"]]
+y=[["0", "1"], ["2", "3"], ["", ""], ["4", "5"], ["6", "7"]]
+x_plus_y=[["1", "2"], ["3", "4"], ["", ""], ["5", "6"], ["7", "8"]]
+descr="atom + 3D array"
+
+[[matrices.PlusDyad.RankNRankNScene]]
+x=[["1", "_2", "3"]]
+y=[["4", "5", "6"]]
+x_plus_y=[["5", "3", "9"]]
+descr="1D array + 1D array"
+
+[[matrices.PlusDyad.RankNRankNScene]]
+x=[["0", "1", "2"], ["2", "1", "0"], ["1", "0", "2"]]
+y=[["3", "4", "5"], ["5", "4", "3"], ["4", "3", "5"]]
+x_plus_y=[["3", "5", "7"], ["7", "5", "3"], ["5", "3", "7"]]
+descr="2D array + 2D array"
+
+[[matrices.PlusDyad.RankNRankMScene]]
+x=[["3", "2", "1"]]
+y=[["0", "1", "2"], ["3", "4", "5"], ["6", "7", "8"]]
+x_plus_y=[["3", "4", "5"], ["5", "6", "7"], ["7", "8", "9"]]
+descr="1D array + 2D array"
+
+[[matrices.PlusRank.SimplerProblemScene]]
+x=[["0", "1", "2"]]
+y=[["3", "4", "5"]]
+
+[[matrices.PlusRank.SimplerProblemExplanationScene]]
+x=[["0", "1", "2"]]
+y=[["3", "4", "5"]]
+x_plus_y=[["3", "5", "7"]]
+
+[[matrices.PlusRank.OperandAgreementAcrossDyadScene]]
+x=[["10", "10", "10"]]
+y=[["_3", "1", "_5"]]
+x_plus_y=[["7", "11", "5"]]
+
+[[matrices.PlusRank.Quiz1Scene]]
+x=[["_2", "0", "1"]]
+y=[["3", "4", "5"]]
+x_plus_y=[["1", "3", "4"], ["2", "4", "5"], ["3", "5", "6"]]
+
+[[matrices.PlusRank.Quiz1Scene]]
+x=[["_2", "0", "1"], ["_2", "0", "1"], ["_2", "0", "1"]]
+v=[['(+"0 0)'], ['(+"0 0)'], ['(+"0 0)']]
+y=[["3", "3", "3"], ["4", "4", "4"], ["5", "5", "5"]]
+
+[[matrices.PlusRank.OriginalProblemScene]]
+x=[["3", "2", "1"]]
+y=[["0", "1", "2"], ["3", "4", "5"], ["6", "7", "8"]]
+
+[[matrices.PlusRank.OriginalProblemScene]]
+x=[["3", "3", "3"], ["2", "2", "2"], ["1", "1", "1"]]
+y=[["0", "1", "2"], ["3", "4", "5"], ["6", "7", "8"]]
+x_plus_y=[["3", "4", "5"], ["5", "6", "7"], ["7", "8", "9"]]
+
+[[matrices.PlusRank.Quiz2Scene]]
+x=[["_5", "8", "_3"]]
+y=[["_2", "1", "0"], ["_4", "3", "_5"], ["8", "_6", "_7"], ["_3", "_9", "10"]]
+
+[[matrices.PlusRank.Quiz2Scene]]
+x=[["_5", "_5", "_5"], ["8", "8", "8"], ["_3", "_3", "_3"]]
+y=[["_2", "1", "0"], ["_4", "3", "_5"], ["8", "_6", "_7"], ["_3", "_9", "10"]]
+
+[[matrices.PlusRank.Quiz2Scene]]
+x=[["_5", "_5", "_5"], ["8", "8", "8"], ["_3", "_3", "_3"], ["?", "?", "?"]]
+y=[["_2", "1", "0"], ["_4", "3", "_5"], ["8", "_6", "_7"], ["_3", "_9", "10"]]   
