@@ -5,7 +5,7 @@ This is a Manim[^1] project that explains the concept of rank in J[^2]. 1080p vi
 [^1]: [Manim](https://github.com/ManimCommunity/manim) is a community-maintained Python library for creating mathematical animations.
 [^2]: [J](https://www.jsoftware.com/#/) is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data.
 
-Below are some links explaining the concept of rank in J,
+Below are some links explaining rank in J,
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Rank_(J_programming_language))
 * [Learning J (Book)](https://www.jsoftware.com/help/learning/07.htm)
