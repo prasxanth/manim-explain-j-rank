@@ -4,5 +4,3 @@ This is [Manim](https://github.com/ManimCommunity/manim) project that is used to
 
 This is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-If you find this useful, please drop me a note at prasxanth.kumar@gmail.com.
-
