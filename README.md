@@ -1,11 +1,9 @@
 # Concept of Rank in J using Manim
 
-This is [Manim](https://github.com/ManimCommunity/manim) project that is used to explain the concept of rank in [J](https://www.jsoftware.com/#/). 1080p videos are in the [videos](videos) folder.
+This is a [Manim](https://github.com/ManimCommunity/manim) project that explains the concept of rank in [J](https://www.jsoftware.com/#/). 1080p videos are in the [videos](videos) folder.
 
-### J
 > **J** is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data.
 
-### Manim
 > **Manim** is a community-maintained Python library for creating mathematical animations.
 
 Below are some links explaining the concept of rank in J,
